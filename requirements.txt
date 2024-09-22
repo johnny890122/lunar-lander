@@ -1,0 +1,6 @@
+pyvirtualdisplay
+tqdm
+numpy
+torch
+matplotlib
+gym
